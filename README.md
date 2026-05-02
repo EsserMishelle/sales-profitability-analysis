@@ -1,10 +1,9 @@
+<p align = 'center'>
+<img src="assets/elevate_retail_logo.jpg" alt="shopping cart as logo header_image" width='200' height='200'>
+</p>
 
-<img src="assets/elevate_retail_logo.jpg" alt="shopping cart as logo header_image" width='200' height='200' class ='center'>
-
-# Elevate Commerce Sales and Profitablility Analysis
-
-Executive Summary
-
+# Elevate Commerce Sales and Profitability Analysis
+## Executive Summary
 An analysis of Elevate Commerce’s sales data from 2016 to 2019 reveals an overall upward trend in both revenue and profitability, despite a temporary decline in 2017.
 
 Total revenue increased from approximately $528K in 2016 to $799K in 2019, representing significant growth driven by improved sales performance in later years. Similarly, profit rose from $155K to $239K, indicating that the company not only increased sales but also maintained healthy margins.
