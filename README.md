@@ -29,55 +29,12 @@ Reporting to the Marketing Director, this analysis evaluates sales performance a
 <!-- <img src="assets/revenue_and_profit_trend1.jpg" alt="shopping cart as logo header_image" width='60%' height='40%'>  -->
 </p>
 
-<img width="1201" height="577" alt="image" src="https://github.com/user-attachments/assets/323ebe70-a39c-4a7e-a115-903ef940bc17" />
+<img width="1207" height="570" alt="image" src="https://github.com/user-attachments/assets/dad63ec8-2c21-4b3d-9ad1-48bd9746ca4f" />
+
+<h2 align="center">Dataset Overview</h2>
+The dataset consists of transactional sales data including orders, customers, and product-level details across multiple regions and time periods.
 
 
-
-<table width="1000px">
-  <tr>
-    <td width="50%" valign="top">
-
-### 1. Revenue Growth and Performance Trends
-- Revenue increased steadily over the analysis period  
-- Strongest performance in 2018–2019  
-- Peak levels reached in late 2019  
-
-    </td>
-
-    <td width="50%" valign="top">
-
-### 3. Seasonal Patterns and Fluctuations
-- Recurring fluctuations suggest seasonality  
-- Stronger performance toward year-end  
-- Temporary decline observed in 2017  
-
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-
-### 2. Profit Volatility and Peak Periods
-- Profit shows greater volatility than revenue  
-- Peaks in late 2018 and 2019  
-- Early periods show lower profitability  
-
-    </td>
-
-    <td width="50%" valign="top">
-
-### 4. Profitability Drivers
-- Revenue does not always translate to profit  
-- Discounting impacts margins  
-- Opportunity to optimize pricing strategy  
-
-    </td>
-  </tr>
-</table>
-
-<table width='100%' valign="top">
-  <tr>
-    <td width="50%" valign="top">
 
 
 
