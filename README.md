@@ -29,6 +29,12 @@ Reporting to the Marketing Director, this analysis evaluates sales performance a
 
 <h2 align="center">Executive Summary</h2>
 
+<p align = 'center'>
+<img src="assets/revenue_and_profit_trend1.jpg" alt="shopping cart as logo header_image" width='800' height='400'>
+</p>
+
+<img width="1176" height="872" alt="image" src="https://github.com/user-attachments/assets/7616ddd0-28c7-4962-87d5-fec4fdf1ef4a" />
+
 
 An analysis of Elevate Commerce’s sales data from 2016 to 2019 reveals an overall upward trend in both revenue and profitability, despite a temporary decline in 2017.
 
