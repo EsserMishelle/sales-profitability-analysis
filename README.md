@@ -1,6 +1,5 @@
 <p align = 'center'>
-<img src="assets/elevate_retail_logo.jpg" alt="shopping cart as logo header_image" width='200' height='200'>
-</p>
+<img src="assets/elevate_retail_logo_github3.jpg" alt="shopping cart as logo header_image" width='300' height='300'>
 
 <h1 align="center">Elevate Commerce Sales and Profitability Analysis</h1>
 <h2 align="center">Client Background</h2>
