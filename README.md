@@ -16,22 +16,71 @@ As the business continues to grow, leadership is focused on improving overall pe
 Reporting to the Marketing Director, this analysis evaluates sales performance and identifies key drivers of profitability across product categories and regions. The findings provide actionable insights that cross-functional teams can leverage to streamline processes and enhance overall sales performance. The key insights and recommendations focus on the following areas:
 
  - **Revenue – Measures overall sales performance across regions and product categories.**
-
 - **Profit – Evaluates the actual financial gain generated from sales.**
-
 - **Profit Margin – Assesses efficiency by comparing profit relative to revenue.**
-
 - **Discount – Analyzes the impact of pricing strategies on profitability.**
-
 - **Product Performance – Evaluates performance at the category and sub-category level to identify high and low performers.**
-
 - **Regional Performance – Compares revenue and profit across regions to identify geographic opportunities and risks.**
 
 <h2 align="center">Executive Summary</h2>
 
-<p align = 'center'>
+<p align = 'left'>
 <img src="assets/revenue_and_profit_trend1.jpg" alt="shopping cart as logo header_image" width='1000' height='400'>
+<!-- <img src="assets/revenue_and_profit_trend1.jpg" alt="shopping cart as logo header_image" width='60%' height='40%'>  -->
 </p>
+
+<img width="1201" height="577" alt="image" src="https://github.com/user-attachments/assets/323ebe70-a39c-4a7e-a115-903ef940bc17" />
+
+
+
+<table width="1000px">
+  <tr>
+    <td width="50%" valign="top">
+
+### 1. Revenue Growth and Performance Trends
+- Revenue increased steadily over the analysis period  
+- Strongest performance in 2018–2019  
+- Peak levels reached in late 2019  
+
+    </td>
+
+    <td width="50%" valign="top">
+
+### 3. Seasonal Patterns and Fluctuations
+- Recurring fluctuations suggest seasonality  
+- Stronger performance toward year-end  
+- Temporary decline observed in 2017  
+
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+
+### 2. Profit Volatility and Peak Periods
+- Profit shows greater volatility than revenue  
+- Peaks in late 2018 and 2019  
+- Early periods show lower profitability  
+
+    </td>
+
+    <td width="50%" valign="top">
+
+### 4. Profitability Drivers
+- Revenue does not always translate to profit  
+- Discounting impacts margins  
+- Opportunity to optimize pricing strategy  
+
+    </td>
+  </tr>
+</table>
+
+<table width='100%' valign="top">
+  <tr>
+    <td width="50%" valign="top">
+
+
+
 
 An analysis of Elevate Commerce’s sales data from 2016 to 2019 reveals an overall upward trend in both revenue and profitability, despite a temporary decline in 2017.
 
