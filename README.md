@@ -7,7 +7,7 @@
 
 Elevate Commerce is a small to mid-sized retail company offering a diverse range of products across categories such as furniture, technology, and office supplies. The company serves multiple customer segments, including Consumer, Corporate, and Home Office.
 
-The analysis is based on a multi-year dataset spanning 2016–2019, including approximately 5,000 customers and over 10,000 transactions across multiple regions and product categories. The company has demonstrated steady revenue growth over this period, surpassing $1M in annual revenue by 2019.
+The analysis is based on a multi-year dataset spanning **2016–2019**, including approximately **5,000** customers and over **10,000** transactions across multiple regions and product categories. The company has demonstrated steady revenue growth over this period, surpassing **$1M** in annual revenue by 2019.
 
 <h2 align="center">Business Objective</h2>
 
