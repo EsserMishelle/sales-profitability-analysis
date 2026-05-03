@@ -22,6 +22,8 @@ Reporting to the Marketing Director, this analysis evaluates sales performance a
 - **Product Performance – Evaluates performance at the category and sub-category level to identify high and low performers.**
 - **Regional Performance – Compares revenue and profit across regions to identify geographic opportunities and risks.**
 
+
+<br>
 <h2 align="center">Executive Summary</h2>
 
 <p align = 'left'>
@@ -34,6 +36,7 @@ Reporting to the Marketing Director, this analysis evaluates sales performance a
 <h2 align="center">Dataset Overview</h2>
 The dataset consists of transactional sales data including orders, customers, and product-level details across multiple regions and time periods.
 
+<img width="1233" height="678" alt="image" src="https://github.com/user-attachments/assets/edc6a0a6-e791-482c-aaca-2dc7af1b3858" />
 
 
 
