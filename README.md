@@ -17,6 +17,8 @@ Reporting to the Marketing Director, this analysis evaluates sales performance a
  - **Revenue – Measures overall sales performance across regions and product categories.**
 - **Profit – Evaluates the actual financial gain generated from sales.**
 - **Profit Margin – Assesses efficiency by comparing profit relative to revenue.**
+- **Order Volume – Tracks the number of orders over time to identify demand trends.**
+- **Average Order Value (AOV) – Measures the average revenue generated per order, indicating customer spending behavior.**
 - **Discount – Analyzes the impact of pricing strategies on profitability.**
 - **Product Performance – Evaluates performance at the category and sub-category level to identify high and low performers.**
 - **Regional Performance – Compares revenue and profit across regions to identify geographic opportunities and risks.**
@@ -27,15 +29,24 @@ Reporting to the Marketing Director, this analysis evaluates sales performance a
 
 <p align = 'left'>
 <img src="assets/revenue_and_profit_trend1.jpg" alt="shopping cart as logo header_image" width='1000' height='400'>
-<!-- <img src="assets/revenue_and_profit_trend1.jpg" alt="shopping cart as logo header_image" width='60%' height='40%'>  -->
 </p>
 
-<img width="1207" height="570" alt="image" src="https://github.com/user-attachments/assets/dad63ec8-2c21-4b3d-9ad1-48bd9746ca4f" />
+
+<img width="1052" height="622" alt="image" src="https://github.com/user-attachments/assets/0f923d6f-2f55-4e5a-9326-013d4234e733" />
+
+
 
 <h2 align="center">Dataset Overview</h2>
 The dataset consists of transactional sales data including orders, customers, and product-level details across multiple regions and time periods.
 
 <img width="1233" height="678" alt="image" src="https://github.com/user-attachments/assets/edc6a0a6-e791-482c-aaca-2dc7af1b3858" />
+
+<h2 align="center">Sales Trend</h2>
+
+<img width="1187" height="407" alt="image" src="https://github.com/user-attachments/assets/1b13131e-731d-41f7-b3ac-616d9ee75ade" />
+
+
+
 
 
 
