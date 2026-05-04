@@ -36,11 +36,12 @@ Reporting to the Marketing Director, this analysis evaluates sales performance a
 <h2 align="center">Dataset Overview</h2>
 The dataset consists of transactional sales data including orders, customers, and product-level details across multiple regions and time periods.
 
-<img width="912" height="501" alt="image" src="https://github.com/user-attachments/assets/62982144-3f37-4c4b-96e2-4c063af86ab8" />
+<img width="912" height="501" alt="erd_image" src="https://github.com/user-attachments/assets/62982144-3f37-4c4b-96e2-4c063af86ab8" />
 
 <h2 align="center">Sales Trend</h2>
 
-<img width="1477" height="402" alt="image" src="https://github.com/user-attachments/assets/e495ab81-88fb-4985-8cf3-316c75324509" />
+<img width="1482" height="526" alt="sales_trend_image" src="https://github.com/user-attachments/assets/cda2f912-34ed-4330-b9a0-9d30020d5974" />
+
 
 
 ### 1. Revenue Growth and Performance Trends
@@ -71,6 +72,11 @@ The dataset consists of transactional sales data including orders, customers, an
   - improve operational efficiency  
 
 ---
+
+<h2 align="center">Profit Trend</h2>
+
+<img width="987" height="400" alt="profit_trend_image" src="https://github.com/user-attachments/assets/933e5f74-857b-43dd-94df-313f6bd5efff" />
+
 
 **Overall Insight:**  
 Elevate Commerce demonstrates scalable growth driven by increased customer activity, with consistent pricing dynamics supporting stable revenue expansion.
