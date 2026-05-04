@@ -41,41 +41,28 @@ The dataset consists of transactional sales data including orders, customers, an
 <h2 align="center">Sales Trend</h2>
 
 <img width="1482" height="526" alt="sales_trend_image" src="https://github.com/user-attachments/assets/cda2f912-34ed-4330-b9a0-9d30020d5974" />
+<br>
 
-
-
-### 1. Revenue Growth and Performance Trends
-- Revenue shows a clear upward trend from 2016 to 2019, indicating sustained business growth.  
-- The highest revenue was recorded at **$230K**, with peak performance occurring toward the end of the timeline.  
-- While growth is consistent overall, short-term fluctuations suggest the influence of seasonality and periodic demand shifts.  
-
-### 2. Order Volume as the Primary Growth Driver
-- Order volume increased significantly over time, reaching a peak of **632 orders**, reflecting strong expansion in transaction activity.  
-- Quarterly patterns show recurring dips followed by sharp recoveries, indicating cyclical purchasing behavior.  
-- The alignment between revenue and order growth suggests that **increased sales volume—not pricing—has been the main driver of revenue growth**.  
-
-### 3. Average Order Value (AOV) Stability
-- AOV remained relatively stable over the period, averaging **$977**, with occasional spikes up to **$1,415**.  
-- Despite volatility at the monthly level, there is no sustained upward or downward trend in AOV.  
-- This indicates that **customer spending per order has remained consistent**, with limited impact from pricing or product mix changes.  
-
-### 4. Seasonal Patterns and Variability
-- Both revenue and order volume exhibit recurring peaks and dips, suggesting seasonal demand patterns.  
-- Stronger performance toward later periods (especially 2018–2019) indicates improved market traction or operational execution.  
-- Temporary declines are short-lived, reinforcing the overall strength of the growth trajectory.  
-
-### 5. Key Business Insight
-- Sales growth is primarily driven by **higher order volume rather than increased spending per transaction**.  
-- The stability in AOV combined with rising order counts highlights opportunities to:  
-  - scale customer acquisition  
-  - optimize conversion rates  
-  - improve operational efficiency  
-
+| **Key Findings** | **Business Insights** |
+|--------------------------------------|--------------------------------------|
+| • Revenue increased steadily from 2016 to 2019.<br>• The highest monthly revenue (~$230K) occurs toward the end of the period.<br>• Short-term fluctuations are present throughout the timeline. | • The business is growing, with stronger performance in later years.<br>• Variability likely reflects seasonal demand rather than structural issues. |
+| • Order volume rose significantly, reaching a peak of 632 orders.<br>• Quarterly patterns show repeated dips followed by strong recoveries.<br>• Revenue and order volume trends closely align. | • Revenue growth is driven by more orders, not higher pricing.<br>• Demand follows a cyclical pattern that should be planned for operationally.<br>• Sustained growth depends on maintaining or increasing order volume. |
+| • AOV remains relatively stable, averaging $977. <br>• Occasional spikes (~$1,415) are not sustained.<br>• No consistent upward or downward trend is observed. | • Customer spend per order has remained largely unchanged.<br>• Pricing and product mix are not the main drivers of growth.<br>• Revenue increases are coming from volume rather than basket size. |
+| • Revenue and order volume both show recurring peaks and dips.<br>• Performance improves noticeably in 2018–2019.<br>• Declines are short-lived and followed by recovery. | • The business is influenced by seasonal demand patterns.<br>• Later-year improvements suggest better execution or stronger demand.<br>• Temporary declines do not indicate long-term risk. |
+| • Revenue growth mirrors increases in order count.<br>• Stable AOV contrasts with rising transaction volume.<br>• No major pricing shifts are evident. | • Growth is volume-driven rather than price-driven.<br>• Scaling acquisition and conversion will have the biggest impact.<br>• Operational efficiency becomes more important as volume increases. |
 ---
-
 <h2 align="center">Profit Trend</h2>
 
 <img width="987" height="400" alt="profit_trend_image" src="https://github.com/user-attachments/assets/933e5f74-857b-43dd-94df-313f6bd5efff" />
+<br>
+
+| **Key Findings** | **Insights** |
+|------------------------|----------------------------------------|
+| • Profit declines as discount levels increase.<br>• Higher discount orders often result in reduced or negative profit.<br>• Profit compresses toward lower values at higher discount levels. | • Discounting is directly eroding margins.<br>• More sales at high discounts are not improving overall profitability.<br>• Profit becomes less consistent as discounts increase. |
+| • Break-even occurs around ~25–30% discount.<br>• Average profit turns negative beyond this range.<br>• This threshold is consistent across discount bins. | • Discounts above ~25–30% are not sustainable.<br>• This acts as a practical cutoff for pricing decisions.<br>• Staying below this level helps protect margins. |
+| • Peak average profit occurs within the ~5–10% discount range.<br>• Moderate discounts generate the highest average returns.<br>• Profit declines outside this range. | • There is a clear “sweet spot” for discounting.<br>• Small discounts help drive sales without hurting profit.<br>• Pricing should stay within this range when possible. |
+| • High discount levels (>35%) frequently result in losses.<br>• Many orders fall below the profit baseline in this range.<br>• A “high discount risk zone” is observed in heavily discounted transactions. | • High discounts carry clear financial risk.<br>• Revenue at these levels is not translating into profit.<br>• Reducing these transactions would likely improve performance. |
+| • Individual high-profit orders (e.g., ~$45K) exist but are rare.<br>• Profit distribution is skewed by a small number of outliers.<br>• Most orders cluster around lower profit values. | • A few large orders are inflating results but are not typical.<br>• Average performance is a better indicator than extremes.<br>• Decisions should focus on consistent, repeatable outcomes. |
 
 
 **Overall Insight:**  
