@@ -28,10 +28,36 @@ Reporting to the Marketing Director, this analysis evaluates sales performance a
 <h2 align="center">Executive Summary</h2>
 
 <p align = 'left'>
-<img src="assets/revenue_and_profit_trend1.jpg" alt="shopping cart as logo header_image" width='1000' height='400'>
+<img width="1184" height="400" alt="revenue_profit_peak_2019_image" src="https://github.com/user-attachments/assets/90b4e304-882b-4295-a3d7-6f30bc6e5ae6" />
 </p>
 
-<img width="1052" height="622" alt="image" src="https://github.com/user-attachments/assets/0f923d6f-2f55-4e5a-9326-013d4234e733" />
+## Executive Summary
+
+### 1. Revenue Growth and Performance Trends
+- Revenue shows a clear upward trend from 2016 to 2019, with stronger performance in later years.  
+- Peak revenue occurs toward the end of the timeline, reflecting sustained business growth.  
+- Short-term fluctuations suggest the influence of seasonal demand patterns.  
+
+### 2. Order Volume Trends
+- Order volume increases steadily over time, especially from 2018 onward.  
+- Growth in revenue closely aligns with rising order counts, indicating higher transaction activity.  
+- Recurring peaks, especially in Q4, highlight consistent seasonal purchasing behavior around the holiday season.  
+
+### 3. Customer Spending Behavior
+- Average order value (AOV) remains relatively stable throughout the period, with no significant upward trend.  
+- Monthly variability suggests the influence of discounting or changes in product mix.  
+- This indicates that customer spend per transaction has not been the primary driver of growth.  
+
+### 4. Profitability Considerations
+- While revenue and order volume grow consistently, profitability varies across time and conditions.  
+- Discounting appears to influence profit outcomes, particularly at higher discount levels.  
+- This suggests that growth does not always translate directly into improved financial performance.  
+
+### 5. Strategic Recommendations
+- Improving pricing discipline and limiting high discount levels can help sustain profitability.  
+- Focusing on high-performing product segments while addressing underperforming areas can further strengthen overall performance.  
+
+<br>
 
 <h2 align="center">Dataset Overview</h2>
 The dataset consists of transactional sales data including orders, customers, and product-level details across multiple regions and time periods.
@@ -41,6 +67,7 @@ The dataset consists of transactional sales data including orders, customers, an
 <h2 align="center">Sales Trend</h2>
 
 <img width="1482" height="526" alt="sales_trend_image" src="https://github.com/user-attachments/assets/cda2f912-34ed-4330-b9a0-9d30020d5974" />
+
 <br>
 
 | **Key Findings** | **Business Insights** |
@@ -65,7 +92,7 @@ The dataset consists of transactional sales data including orders, customers, an
 | • Individual high-profit orders (e.g., ~$45K) exist but are rare.<br>• Profit distribution is skewed by a small number of outliers.<br>• Most orders cluster around lower profit values. | • A few large orders are inflating results but are not typical.<br>• Average performance is a better indicator than extremes.<br>• Decisions should focus on consistent, repeatable outcomes. |
 
 <br>
-<img width="987" height="400" alt="image" src="https://github.com/user-attachments/assets/d7db709e-3ee8-4a42-a23b-b90303bad318" />
+<img width="987" height="413" alt="qudaron_catgories_image" src="https://github.com/user-attachments/assets/e7e87759-828a-496e-ba11-cbef5b5a7a9e" />
 
 
 **Overall Insight:**  
