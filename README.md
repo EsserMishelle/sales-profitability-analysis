@@ -40,7 +40,8 @@ The dataset consists of transactional sales data including orders, customers, an
 
 <h2 align="center">Sales Trend</h2>
 
-<img width="1487" height="407" alt="image" src="https://github.com/user-attachments/assets/12cc7de8-aba7-4c0d-a245-dbaf23d9ceff" />
+<img width="1477" height="402" alt="image" src="https://github.com/user-attachments/assets/e495ab81-88fb-4985-8cf3-316c75324509" />
+
 
 ### 1. Revenue Growth and Performance Trends
 - Revenue shows a clear upward trend from 2016 to 2019, indicating sustained business growth.  
