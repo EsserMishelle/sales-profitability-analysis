@@ -36,8 +36,7 @@ Reporting to the Marketing Director, this analysis evaluates sales performance a
 <h2 align="center">Dataset Overview</h2>
 The dataset consists of transactional sales data including orders, customers, and product-level details across multiple regions and time periods.
 
-<img width="900" height="493" alt="image" src="https://github.com/user-attachments/assets/d68c8aed-78c3-42cd-ab18-51181f0b1123" />
-
+<img width="912" height="501" alt="image" src="https://github.com/user-attachments/assets/62982144-3f37-4c4b-96e2-4c063af86ab8" />
 
 <h2 align="center">Sales Trend</h2>
 
