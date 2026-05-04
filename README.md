@@ -64,18 +64,30 @@ The dataset consists of transactional sales data including orders, customers, an
 
 <img width="912" height="501" alt="erd_image" src="https://github.com/user-attachments/assets/62982144-3f37-4c4b-96e2-4c063af86ab8" />
 
+
+
 <h2 align="center">Sales Trend</h2>
 
-<img width="1490" height="526" alt="sales_trend" src="https://github.com/user-attachments/assets/b790a49d-28a1-49c6-bffd-94445731a08f" />
+
+
+This section highlights overall sales performance across revenue, order volume, and average order value (AOV), helping identify key growth patterns and the primary drivers of business performance over time.
+
+
+
+<img width="1485" height="526" alt="sales_trend_image" src="https://github.com/user-attachments/assets/95ad9276-bdca-4b1b-b950-62d16a1dc1e0" />
 
 <br>
 
+These charts show how growth has evolved and what factors are driving performance.
+
+
+
 | **Key Findings** | **Business Insights** |
 |--------------------------------------|--------------------------------------|
-| • Revenue increased steadily from 2016 to 2019.<br>• The highest monthly revenue (~$230K) occurs toward the end of the period.<br>• Short-term fluctuations are present throughout the timeline. | • The business is growing, with stronger performance in later years.<br>• Variability likely reflects seasonal demand rather than structural issues. |
-| • Order volume rose significantly, reaching a peak of 632 orders.<br>• Quarterly patterns show repeated dips followed by strong recoveries.<br>• Revenue and order volume trends closely align. | • Revenue growth is driven by more orders, not higher pricing.<br>• Demand follows a cyclical pattern that should be planned for operationally.<br>• Sustained growth depends on maintaining or increasing order volume. |
-| • AOV remains relatively stable, averaging $977. <br>• Occasional spikes (~$1,415) are not sustained.<br>• No consistent upward or downward trend is observed. | • Customer spend per order has remained largely unchanged.<br>• Pricing and product mix are not the main drivers of growth.<br>• Revenue increases are coming from volume rather than basket size. |
-| • Revenue and order volume both show recurring peaks and dips.<br>• Performance improves noticeably in 2018–2019.<br>• Declines are short-lived and followed by recovery. | • The business is influenced by seasonal demand patterns.<br>• Later-year improvements suggest better execution or stronger demand.<br>• Temporary declines do not indicate long-term risk. |
+| • Revenue increased steadily from 2016 to 2019.<br>• The highest monthly revenue (~$876K) occurs toward the end of the period.<br>• Short-term fluctuations are present throughout the timeline. | • The business is growing, with stronger performance in later years.<br>• Variability likely reflects repeated seasonal demand rather than other factors. |
+| • Order volume rose significantly, reaching a peak of 632 orders.<br>• Quarterly patterns show repeated dips followed by strong recoveries.<br>• Revenue and order volume trends closely align. | • Revenue growth is driven by more orders, not higher pricing.<br>• Demand follows a seasonal pattern that should be planned for operationally.<br>• Sustained growth depends on maintaining or increasing order volume. |
+| • AOV remains relatively stable, averaging $6314. <br>• Occasional spikes (~$1,415) are not frequent nor long-term .<br>• No consistent upward or downward trend is observed. | • Customer spend per order has remained largely unchanged.<br>• Pricing and product mix are not the main drivers of growth.<br>• Revenue increases are coming from volume. 
+| • Revenue and order volume both show recurring peaks and dips.<br>• Performance improves noticeably in 2018–2019.<br>• Declines are brief and followed by recovery. | <br>• Later-year improvements suggest better execution or stronger demand.<br>• Temporary declines do not indicate long-term risk. |
 | • Revenue growth mirrors increases in order count.<br>• Stable AOV contrasts with rising transaction volume.<br>• No major pricing shifts are evident. | • Growth is volume-driven rather than price-driven.<br>• Scaling acquisition and conversion will have the biggest impact.<br>• Operational efficiency becomes more important as volume increases. |
 ---
 <h2 align="center">Profit Trend</h2>
