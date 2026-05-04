@@ -31,10 +31,7 @@ Reporting to the Marketing Director, this analysis evaluates sales performance a
 <img src="assets/revenue_and_profit_trend1.jpg" alt="shopping cart as logo header_image" width='1000' height='400'>
 </p>
 
-
 <img width="1052" height="622" alt="image" src="https://github.com/user-attachments/assets/0f923d6f-2f55-4e5a-9326-013d4234e733" />
-
-
 
 <h2 align="center">Dataset Overview</h2>
 The dataset consists of transactional sales data including orders, customers, and product-level details across multiple regions and time periods.
@@ -43,9 +40,39 @@ The dataset consists of transactional sales data including orders, customers, an
 
 <h2 align="center">Sales Trend</h2>
 
-<img width="1187" height="407" alt="image" src="https://github.com/user-attachments/assets/1b13131e-731d-41f7-b3ac-616d9ee75ade" />
+<img width="1487" height="407" alt="image" src="https://github.com/user-attachments/assets/12cc7de8-aba7-4c0d-a245-dbaf23d9ceff" />
 
+### 1. Revenue Growth and Performance Trends
+- Revenue shows a clear upward trend from 2016 to 2019, indicating sustained business growth.  
+- The highest revenue was recorded at **$230K**, with peak performance occurring toward the end of the timeline.  
+- While growth is consistent overall, short-term fluctuations suggest the influence of seasonality and periodic demand shifts.  
 
+### 2. Order Volume as the Primary Growth Driver
+- Order volume increased significantly over time, reaching a peak of **632 orders**, reflecting strong expansion in transaction activity.  
+- Quarterly patterns show recurring dips followed by sharp recoveries, indicating cyclical purchasing behavior.  
+- The alignment between revenue and order growth suggests that **increased sales volume—not pricing—has been the main driver of revenue growth**.  
+
+### 3. Average Order Value (AOV) Stability
+- AOV remained relatively stable over the period, averaging **$977**, with occasional spikes up to **$1,415**.  
+- Despite volatility at the monthly level, there is no sustained upward or downward trend in AOV.  
+- This indicates that **customer spending per order has remained consistent**, with limited impact from pricing or product mix changes.  
+
+### 4. Seasonal Patterns and Variability
+- Both revenue and order volume exhibit recurring peaks and dips, suggesting seasonal demand patterns.  
+- Stronger performance toward later periods (especially 2018–2019) indicates improved market traction or operational execution.  
+- Temporary declines are short-lived, reinforcing the overall strength of the growth trajectory.  
+
+### 5. Key Business Insight
+- Sales growth is primarily driven by **higher order volume rather than increased spending per transaction**.  
+- The stability in AOV combined with rising order counts highlights opportunities to:  
+  - scale customer acquisition  
+  - optimize conversion rates  
+  - improve operational efficiency  
+
+---
+
+**Overall Insight:**  
+Elevate Commerce demonstrates scalable growth driven by increased customer activity, with consistent pricing dynamics supporting stable revenue expansion.
 
 
 
