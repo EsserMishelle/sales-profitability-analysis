@@ -66,7 +66,7 @@ The dataset consists of transactional sales data including orders, customers, an
 
 <h2 align="center">Sales Trend</h2>
 
-<img width="1482" height="526" alt="sales_trend_image" src="https://github.com/user-attachments/assets/cda2f912-34ed-4330-b9a0-9d30020d5974" />
+<img width="1490" height="526" alt="sales_trend" src="https://github.com/user-attachments/assets/b790a49d-28a1-49c6-bffd-94445731a08f" />
 
 <br>
 
