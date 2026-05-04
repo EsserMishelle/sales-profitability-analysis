@@ -23,7 +23,6 @@ Reporting to the Marketing Director, this analysis evaluates sales performance a
 - **Product Performance – Evaluates performance at the category and sub-category level to identify high and low performers.**
 - **Regional Performance – Compares revenue and profit across regions to identify geographic opportunities and risks.**
 
-
 <br>
 <h2 align="center">Executive Summary</h2>
 
@@ -31,8 +30,7 @@ Reporting to the Marketing Director, this analysis evaluates sales performance a
 <img width="1184" height="400" alt="revenue_profit_peak_2019_image" src="https://github.com/user-attachments/assets/90b4e304-882b-4295-a3d7-6f30bc6e5ae6" />
 </p>
 
-## Executive Summary
-
+### Key Findings and Insights
 ### 1. Revenue Growth and Performance Trends
 - Revenue shows a clear upward trend from 2016 to 2019, with stronger performance in later years.  
 - Peak revenue occurs toward the end of the timeline, reflecting sustained business growth.  
@@ -57,8 +55,6 @@ Reporting to the Marketing Director, this analysis evaluates sales performance a
 - Improving pricing discipline and limiting high discount levels can help sustain profitability.  
 - Focusing on high-performing product segments while addressing underperforming areas can further strengthen overall performance.  
 
-<br>
-
 <h2 align="center">Dataset Overview</h2>
 The dataset consists of transactional sales data including orders, customers, and product-level details across multiple regions and time periods.
 
@@ -68,32 +64,32 @@ The dataset consists of transactional sales data including orders, customers, an
 
 <h2 align="center">Sales Trend</h2>
 
-
-
 This section highlights overall sales performance across revenue, order volume, and average order value (AOV), helping identify key growth patterns and the primary drivers of business performance over time.
-
-
 
 <img width="1485" height="526" alt="sales_trend_image" src="https://github.com/user-attachments/assets/95ad9276-bdca-4b1b-b950-62d16a1dc1e0" />
 
-<br>
 
 These charts show how growth has evolved and what factors are driving performance.
 
-
-
 | **Key Findings** | **Business Insights** |
-|--------------------------------------|--------------------------------------|
-| • Revenue increased steadily from 2016 to 2019.<br>• The highest monthly revenue (~$876K) occurs toward the end of the period.<br>• Short-term fluctuations are present throughout the timeline. | • The business is growing, with stronger performance in later years.<br>• Variability likely reflects repeated seasonal demand rather than other factors. |
-| • Order volume rose significantly, reaching a peak of 632 orders.<br>• Quarterly patterns show repeated dips followed by strong recoveries.<br>• Revenue and order volume trends closely align. | • Revenue growth is driven by more orders, not higher pricing.<br>• Demand follows a seasonal pattern that should be planned for operationally.<br>• Sustained growth depends on maintaining or increasing order volume. |
-| • AOV remains relatively stable, averaging $6314. <br>• Occasional spikes (~$1,415) are not frequent nor long-term .<br>• No consistent upward or downward trend is observed. | • Customer spend per order has remained largely unchanged.<br>• Pricing and product mix are not the main drivers of growth.<br>• Revenue increases are coming from volume. 
-| • Revenue and order volume both show recurring peaks and dips.<br>• Performance improves noticeably in 2018–2019.<br>• Declines are brief and followed by recovery. | <br>• Later-year improvements suggest better execution or stronger demand.<br>• Temporary declines do not indicate long-term risk. |
-| • Revenue growth mirrors increases in order count.<br>• Stable AOV contrasts with rising transaction volume.<br>• No major pricing shifts are evident. | • Growth is volume-driven rather than price-driven.<br>• Scaling acquisition and conversion will have the biggest impact.<br>• Operational efficiency becomes more important as volume increases. |
----
+|------------------|----------------------|
+| • Revenue increased steadily from 2016 to 2019, exceeding the historical average in 2019.<br>• Peak monthly revenue (~$876K) occurs toward the end of the period.<br>• A temporary dip after 2016 is followed by a strong recovery in 2017. | • The business shows sustained growth with stronger performance in later years.<br>• The quick recovery after 2016 suggests resilience rather than structural weakness. |
+| • Order volume rose significantly, reaching a peak of 632 orders.<br>• Revenue and order volume trends closely align.<br>• Quarterly patterns show dips followed by recoveries. | • Growth is primarily driven by increased transaction volume rather than pricing.<br>• Demand shows cyclical behavior that should be considered in planning. |
+| • AOV remains relatively stable, averaging $3,692.<br>• Occasional spikes ($6,314) are not sustained.<br>• No consistent upward or downward trend is observed. | • Customer spend per order has remained largely unchanged.<br>• Revenue growth is not driven by higher-value transactions. |
+| • Revenue and order volume show recurring fluctuations, with stronger performance in 2018–2019.<br>• Declines are short-lived and followed by recovery. | • Later-year improvements suggest stronger demand or improved execution.<br>• Short-term variability does not indicate long-term risk. |
+| • Stable AOV contrasts with rising order volume.<br>• No major pricing shifts are evident. | • Growth is volume-driven, highlighting the importance of scaling acquisition and conversion.<br>• Operational efficiency becomes more critical as volume increases. |
+
+
+While sales performance shows strong growth driven by increasing order volume, the next section examines how pricing and discounting impact overall profitability.
+
+
 <h2 align="center">Profit Trend</h2>
 
 <img width="987" height="400" alt="profit_trend_image" src="https://github.com/user-attachments/assets/933e5f74-857b-43dd-94df-313f6bd5efff" />
+
 <br>
+
+These visuals highlight how discount levels influence profit, revealing clear thresholds where profitability begins to decline.
 
 | **Key Findings** | **Insights** |
 |------------------------|----------------------------------------|
@@ -103,9 +99,22 @@ These charts show how growth has evolved and what factors are driving performanc
 | • High discount levels (>35%) frequently result in losses.<br>• Many orders fall below the profit baseline in this range.<br>• A “high discount risk zone” is observed in heavily discounted transactions. | • High discounts carry clear financial risk.<br>• Revenue at these levels is not translating into profit.<br>• Reducing these transactions would likely improve performance. |
 | • Individual high-profit orders (e.g., ~$45K) exist but are rare.<br>• Profit distribution is skewed by a small number of outliers.<br>• Most orders cluster around lower profit values. | • A few large orders are inflating results but are not typical.<br>• Average performance is a better indicator than extremes.<br>• Decisions should focus on consistent, repeatable outcomes. |
 
-<br>
-<img width="987" height="413" alt="qudaron_catgories_image" src="https://github.com/user-attachments/assets/e7e87759-828a-496e-ba11-cbef5b5a7a9e" />
 
+
+<h2 align ='center'>Product Performance and Profitability by Category</h2>
+
+To further understand profitability beyond pricing effects, this analysis examines performance across product categories.
+
+<img width="983" height="412" alt="image" src="https://github.com/user-attachments/assets/a6f79cce-0ac0-4e00-a0e8-cf248bb9e250" />
+
+**Key Findings and Insights**
+- **Top performers:** Binders (Office Supplies) and Phones (Technology) drive both high revenue and strong profit.
+- **Needs attention:** Tables (Furniture) generate high revenue but relatively low profit, indicating inefficiencies.
+- **Growth potential:** Copiers (Technology) show strong profit with moderate revenue and opportunity to scale.
+- **Underperformers:** Fasteners and Appliances contribute low revenue and profit relative to other categories.
+- **Key takeaway:** Revenue is concentrated in a few categories, but profitability varies significantly across segments.
+
+---
 
 **Overall Insight:**  
 Elevate Commerce demonstrates scalable growth driven by increased customer activity, with consistent pricing dynamics supporting stable revenue expansion.
