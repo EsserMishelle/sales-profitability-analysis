@@ -107,12 +107,31 @@ To further understand profitability beyond pricing effects, this analysis examin
 
 <img width="983" height="412" alt="image" src="https://github.com/user-attachments/assets/a6f79cce-0ac0-4e00-a0e8-cf248bb9e250" />
 
-**Key Findings and Insights**
+## Key Findings
+
 - **Top performers:** Binders (Office Supplies) and Phones (Technology) drive both high revenue and strong profit.
 - **Needs attention:** Tables (Furniture) generate high revenue but relatively low profit, indicating inefficiencies.
 - **Growth potential:** Copiers (Technology) show strong profit with moderate revenue and opportunity to scale.
 - **Underperformers:** Fasteners and Appliances contribute low revenue and profit relative to other categories.
 - **Key takeaway:** Revenue is concentrated in a few categories, but profitability varies significantly across segments.
+- **Recommedndations:** Recommendations will be finalized after sub-cetegory profitability analysis.
+
+<br>
+<h2 align ='center'>Profitability Deep Dive</h2>
+These visuals provide a breakdown of profit margin performance across product sub-categories.
+
+<img width="992" height="367" alt="top_bottom_5_sub_categories_image" src="https://github.com/user-attachments/assets/728b55d4-26e2-41ec-b676-4f4f585899ca" />
+
+
+## Strategic Recommendations
+
+- **Prioritize high-performing categories:** Continue investing in top performers such as Binders and Phones to sustain revenue and profit growth.
+- **Optimize discount strategy:** Maintain discounts within the ~5–10% range and avoid exceeding ~25–30% to protect margins and prevent losses.
+- **Scale growth potential segments:** Expand categories like Copiers by increasing visibility, targeted promotions, or inventory to capture additional revenue.
+- **Improve underperforming categories:** Reevaluate low-performing products such as Fasteners and Appliances through pricing adjustments, bundling, or potential discontinuation.
+- **Address “Need Attention” categories:** For high-revenue but low-profit items like Tables, explore cost reduction, pricing optimization, or value-added offerings to improve margins.
+- **Leverage product bundling and cross-selling:** Pair underperforming items with high-performing products to increase overall basket value and improve profitability.
+- **Focus on operational efficiency:** As growth is driven by volume rather than pricing, improving fulfillment, inventory management, and conversion rates will be critical to scaling profitably.
 
 ---
 
