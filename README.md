@@ -70,7 +70,7 @@ This section highlights overall sales performance across revenue, order volume, 
 
 These charts show how growth has evolved and what factors are driving performance.
 
-| **Key Findings** | **Business Insights** |
+| Key Findings | Business Insights |
 |------------------|----------------------|
 | • Revenue increased steadily from 2016 to 2019, exceeding the historical average in 2019.<br>• Peak monthly revenue (~$876K) occurs toward the end of the period.<br>• A temporary dip after 2016 is followed by a strong recovery in 2017. | • The business shows sustained growth with stronger performance in later years.<br>• The quick recovery after 2016 suggests resilience rather than structural weakness. |
 | • Order volume rose significantly, reaching a peak of 632 orders.<br>• Revenue and order volume trends closely align.<br>• Quarterly patterns show dips followed by recoveries. | • Growth is primarily driven by increased transaction volume rather than pricing.<br>• Demand shows cyclical behavior that should be considered in planning. |
@@ -84,7 +84,7 @@ While sales performance shows strong growth, the next section shifts focus to pr
 
 <img width="986" height="400" alt="APO_top_bottom_5_subcategories_image" src="https://github.com/user-attachments/assets/e7c5c834-0162-4a45-b1f5-31e9d6408023" />
 
-| Key Findings | Insights |
+| Key Findings | Business Insights |
 |-------------|----------|
 | **Copiers (~$6K APO)** is a clear outlier, with **Machines (~$2.4K)** also significantly higher than all other categories. | Profitability is **highly concentrated**, with Copiers and Machines driving strong per-order returns. |
 | Most categories (**Chairs, Phones, Accessories, Binders, Appliances, Storage, Bookcases, Paper, Envelopes**) show **low APO (generally <$500)**. | Most categories contribute **lower per-order profit**, indicating a wide gap in performance. |
@@ -94,10 +94,6 @@ While sales performance shows strong growth, the next section shifts focus to pr
 <br>
 
 <img width="987" height="466" alt="revenue_profit_quadrant_image" src="https://github.com/user-attachments/assets/15f018ff-148e-405e-a7d5-9eecd74835cb" />
-
-<br>
-
-### Profitability Quadrant (Revenue vs Profit by Category)
 
 **Insights**
 - **Top Performers** (**Binders, Phones, Accessories, Appliances**) generate both high revenue and high profit, making them the strongest contributors to overall performance.  
@@ -110,7 +106,6 @@ While sales performance shows strong growth, the next section shifts focus to pr
 - **Expand Growth Potential categories** (**Copiers, Paper**) through targeted marketing, bundling, or increased visibility.  
 - **Improve margins in Need Attention categories** (**Tables, Storage**) by reviewing pricing, discounting, and cost structure.  
 - **Reevaluate Underperformers** (**Supplies, Fasteners, Art**) for cost reduction, repositioning, or potential phase-out.
-====
 
 <img width="987" height="400" alt="profit_trend_image" src="https://github.com/user-attachments/assets/933e5f74-857b-43dd-94df-313f6bd5efff" />
 
@@ -129,13 +124,11 @@ These visuals highlight how discount levels influence profit, revealing clear th
 
 
 
-
 <h2 align ='center'>Product Performance and Profitability by Category</h2>
 
 To further understand profitability beyond pricing effects, this analysis examines performance across product categories.
 
 <img width="983" height="412" alt="image" src="https://github.com/user-attachments/assets/a6f79cce-0ac0-4e00-a0e8-cf248bb9e250" />
-
 ### Key Findings
 
 - **Top performers:** Binders (Office Supplies) and Phones (Technology) drive both high revenue and strong profit.
@@ -146,12 +139,12 @@ To further understand profitability beyond pricing effects, this analysis examin
 - **Recommedndations:** Recommendations will be finalized after sub-cetegory profitability analysis.
 
 <br>
-<h2 align ='center'>Profitability Deep Dive</h2>
+
 These visuals provide a breakdown of profit margin performance across product sub-categories.
 <br>
 <img width="992" height="367" alt="top_bottom_5_sub_categories_image" src="https://github.com/user-attachments/assets/728b55d4-26e2-41ec-b676-4f4f585899ca" />
 
-### Key Findings and Insights
+### Key Findings and Business Insights
 
 - Profitability varies significantly across sub-categories, with margins ranging from over 40% in top performers to negative values in the lowest-performing segments.  
 - Sub-categories such as Labels, Paper, and Envelopes deliver the highest margins, indicating strong pricing power and efficient cost structures.  
