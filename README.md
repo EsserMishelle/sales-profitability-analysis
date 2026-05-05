@@ -68,7 +68,6 @@ This section highlights overall sales performance across revenue, order volume, 
 
 <img width="1485" height="526" alt="sales_trend_image" src="https://github.com/user-attachments/assets/95ad9276-bdca-4b1b-b950-62d16a1dc1e0" />
 
-
 These charts show how growth has evolved and what factors are driving performance.
 
 | **Key Findings** | **Business Insights** |
@@ -79,17 +78,46 @@ These charts show how growth has evolved and what factors are driving performanc
 | • Revenue and order volume show recurring fluctuations, with stronger performance in 2018–2019.<br>• Declines are short-lived and followed by recovery. | • Later-year improvements suggest stronger demand or improved execution.<br>• Short-term variability does not indicate long-term risk. |
 | • Stable AOV contrasts with rising order volume.<br>• No major pricing shifts are evident. | • Growth is volume-driven, highlighting the importance of scaling acquisition and conversion.<br>• Operational efficiency becomes more critical as volume increases. |
 
-
-While sales performance shows strong growth driven by increasing order volume, the next section examines how pricing and discounting impact overall profitability.
-
+While sales performance shows strong growth, the next section shifts focus to profitability, and the factors that affect the profit performance.
 
 <h2 align="center">Profit Trend</h2>
+
+<img width="986" height="400" alt="APO_top_bottom_5_subcategories_image" src="https://github.com/user-attachments/assets/e7c5c834-0162-4a45-b1f5-31e9d6408023" />
+
+| Key Findings | Insights |
+|-------------|----------|
+| **Copiers (~$6K APO)** is a clear outlier, with **Machines (~$2.4K)** also significantly higher than all other categories. | Profitability is **highly concentrated**, with Copiers and Machines driving strong per-order returns. |
+| Most categories (**Chairs, Phones, Accessories, Binders, Appliances, Storage, Bookcases, Paper, Envelopes**) show **low APO (generally <$500)**. | Most categories contribute **lower per-order profit**, indicating a wide gap in performance. |
+| High-margin sub-categories include **Labels, Paper, Envelopes, Copiers, and Fasteners**. | There is a clear divide between **high-margin categories** and others, highlighting performance imbalance. |
+| Loss-making sub-categories include **Supplies, Tables, Bookcases, Storage, and Chairs** (down to ~-20%). | Categories like **Chairs, Storage, and Bookcases** show **consistent underperformance** across metrics. |
+
+<br>
+
+<img width="987" height="466" alt="revenue_profit_quadrant_image" src="https://github.com/user-attachments/assets/15f018ff-148e-405e-a7d5-9eecd74835cb" />
+
+<br>
+
+### Profitability Quadrant (Revenue vs Profit by Category)
+
+**Insights**
+- **Top Performers** (**Binders, Phones, Accessories, Appliances**) generate both high revenue and high profit, making them the strongest contributors to overall performance.  
+- **Growth Potential** categories (**Copiers, Paper**) show strong profit but comparatively lower revenue, indicating opportunity for expansion.  
+- **Need Attention** categories (**Tables, Storage**) generate relatively high revenue but lower profit, suggesting margin inefficiencies.  
+- **Underperformers** (**Supplies, Fasteners, Art**) contribute low revenue and low profit, limiting overall impact.
+
+**Recommendations**
+- **Invest in Top Performers** (**Binders, Phones, Accessories, Appliances**) to sustain growth and maximize returns.  
+- **Expand Growth Potential categories** (**Copiers, Paper**) through targeted marketing, bundling, or increased visibility.  
+- **Improve margins in Need Attention categories** (**Tables, Storage**) by reviewing pricing, discounting, and cost structure.  
+- **Reevaluate Underperformers** (**Supplies, Fasteners, Art**) for cost reduction, repositioning, or potential phase-out.
+====
 
 <img width="987" height="400" alt="profit_trend_image" src="https://github.com/user-attachments/assets/933e5f74-857b-43dd-94df-313f6bd5efff" />
 
 <br>
 
 These visuals highlight how discount levels influence profit, revealing clear thresholds where profitability begins to decline.
+<br>
 
 | **Key Findings** | **Insights** |
 |------------------------|----------------------------------------|
@@ -98,6 +126,7 @@ These visuals highlight how discount levels influence profit, revealing clear th
 | • Peak average profit occurs within the ~5–10% discount range.<br>• Moderate discounts generate the highest average returns.<br>• Profit declines outside this range. | • There is a clear “sweet spot” for discounting.<br>• Small discounts help drive sales without hurting profit.<br>• Pricing should stay within this range when possible. |
 | • High discount levels (>35%) frequently result in losses.<br>• Many orders fall below the profit baseline in this range.<br>• A “high discount risk zone” is observed in heavily discounted transactions. | • High discounts carry clear financial risk.<br>• Revenue at these levels is not translating into profit.<br>• Reducing these transactions would likely improve performance. |
 | • Individual high-profit orders (e.g., ~$45K) exist but are rare.<br>• Profit distribution is skewed by a small number of outliers.<br>• Most orders cluster around lower profit values. | • A few large orders are inflating results but are not typical.<br>• Average performance is a better indicator than extremes.<br>• Decisions should focus on consistent, repeatable outcomes. |
+
 
 
 
@@ -134,12 +163,15 @@ These visuals provide a breakdown of profit margin performance across product su
 
 <img width="997" height="450" alt="dumbell_chart_unit_cost_unit_price_gap_image" src="https://github.com/user-attachments/assets/f0be69d4-adc5-4c1c-8b5d-0fb1f89bf491" />
 
+<br>
+
 ### Key Findings and Insights
 
 - Sub-categories such as Copiers and Machines show the largest gaps between unit price and unit cost, supporting their strong profitability performance.
 - Lower-priced categories (e.g., Fasteners, Labels, Envelopes) operate with much smaller gaps, limiting margin expansion despite stable sales.
 - Mid-range categories (e.g., Chairs, Bookcases, Tables) show moderate pricing gaps, suggesting potential opportunities to improve margins through pricing or cost optimization.
 
+<br>
 
 
 
