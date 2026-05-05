@@ -107,7 +107,7 @@ To further understand profitability beyond pricing effects, this analysis examin
 
 <img width="983" height="412" alt="image" src="https://github.com/user-attachments/assets/a6f79cce-0ac0-4e00-a0e8-cf248bb9e250" />
 
-## Key Findings
+### Key Findings
 
 - **Top performers:** Binders (Office Supplies) and Phones (Technology) drive both high revenue and strong profit.
 - **Needs attention:** Tables (Furniture) generate high revenue but relatively low profit, indicating inefficiencies.
@@ -119,9 +119,31 @@ To further understand profitability beyond pricing effects, this analysis examin
 <br>
 <h2 align ='center'>Profitability Deep Dive</h2>
 These visuals provide a breakdown of profit margin performance across product sub-categories.
-
+<br>
 <img width="992" height="367" alt="top_bottom_5_sub_categories_image" src="https://github.com/user-attachments/assets/728b55d4-26e2-41ec-b676-4f4f585899ca" />
 
+### Key Findings and Insights
+
+- Profitability varies significantly across sub-categories, with margins ranging from over 40% in top performers to negative values in the lowest-performing segments.  
+- Sub-categories such as Labels, Paper, and Envelopes deliver the highest margins, indicating strong pricing power and efficient cost structures.  
+- Mid-tier categories (e.g., Accessories, Appliances, Furnishings) maintain moderate margins, suggesting balanced but not fully optimized profitability.  
+- Sub-categories including Tables, Bookcases, and Supplies fall near or below the break-even point, highlighting potential inefficiencies in pricing or cost control.  
+- Profitability is concentrated in a small number of high-performing categories, while several segments contribute limited or negative value.  
+
+<h2 align='center'>Pricing vs Cost Structure</h2>
+
+<img width="997" height="450" alt="dumbell_chart_unit_cost_unit_price_gap_image" src="https://github.com/user-attachments/assets/f0be69d4-adc5-4c1c-8b5d-0fb1f89bf491" />
+
+### Key Findings and Insights
+
+- Sub-categories such as Copiers and Machines show the largest gaps between unit price and unit cost, supporting their strong profitability performance.
+- Lower-priced categories (e.g., Fasteners, Labels, Envelopes) operate with much smaller gaps, limiting margin expansion despite stable sales.
+- Mid-range categories (e.g., Chairs, Bookcases, Tables) show moderate pricing gaps, suggesting potential opportunities to improve margins through pricing or cost optimization.
+
+
+
+
+-------------
 
 ## Strategic Recommendations
 
@@ -139,15 +161,6 @@ These visuals provide a breakdown of profit margin performance across product su
 Elevate Commerce demonstrates scalable growth driven by increased customer activity, with consistent pricing dynamics supporting stable revenue expansion.
 
 
-
-
-
-
-An analysis of Elevate Commerce’s sales data from 2016 to 2019 reveals an overall upward trend in both revenue and profitability, despite a temporary decline in 2017.
-
-Total revenue increased from approximately $528K in 2016 to $799K in 2019, representing significant growth driven by improved sales performance in later years. Similarly, profit rose from $155K to $239K, indicating that the company not only increased sales but also maintained healthy margins.
-
-While 2017 experienced a slight dip in both revenue and profit, performance rebounded strongly in 2018 and continued into 2019, suggesting improvements in sales strategy, product performance, or customer demand.
 
 Further analysis indicates that discounting, product category performance, and customer segmentation play key roles in driving profitability. These findings highlight opportunities to optimize pricing strategies and focus on high-performing segments to sustain long-term growth.
 
