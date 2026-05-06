@@ -24,13 +24,11 @@ Reporting to the Marketing Director, this analysis evaluates sales performance a
 - **Regional Performance – Compares revenue and profit across regions to identify geographic opportunities and risks.**
 
 <br>
+
 <h2 align="center">Executive Summary</h2>
 
-<p align = 'left'>
+<img width="1187" height="506" alt="image" src="https://github.com/user-attachments/assets/728e1f73-2105-4ffc-8819-acba13e199b4" />
 
-<img width="1185" height="580" alt="revenue_profit_peak_2019_image" src="https://github.com/user-attachments/assets/03d092d3-3e1f-4d48-a97c-90423d5b8416" />
-
-</p>
 
 ### Key Findings and Insights
 ### 1. Revenue Growth and Performance Trends
