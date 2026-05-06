@@ -50,14 +50,15 @@ Reporting to the Marketing Director, this analysis evaluates sales performance a
 - This suggests that growth does not always translate directly into improved financial performance.  
 
 <h2 align="center">Dataset Overview</h2>
-The dataset consists of transactional sales data including orders, customers, and product-level details across multiple regions and time periods.
 
-<img width="912" height="501" alt="erd_image" src="https://github.com/user-attachments/assets/62982144-3f37-4c4b-96e2-4c063af86ab8" />
+The dataset consists of synthetic but realistically structured transactional retail sales data designed to simulate real-world business operations and purchasing behavior. It includes orders, customers, and product-level details across multiple regions and time periods, with key fields such as revenue, profit, discount, order date, product category, and regional attributes to support analysis of sales performance and profitability drivers.
+
+The following files are associated with this project:
 
 - **Dataset**: [`National_Retail_Sales`](National_Retail_Sales.xlsx)
-- **Data Dictionary**: [`Retail_Sales_Dictionary`](Retail_Sales_Data_Dictionary.xlsx)
+- **Data Dictionary**: [`Retail_Sales_Data_Dictionary`](Retail_Sales_Data_Dictionary.xlsx)
 
-The data includes key fields such as revenue, profit, discount, order date, product category, and regional attributes, supporting analysis of sales performance and profitability drivers.
+<img width="912" height="501" alt="erd_image" src="https://github.com/user-attachments/assets/62982144-3f37-4c4b-96e2-4c063af86ab8" />
 
 <h2 align="center">Sales Trend</h2>
 
