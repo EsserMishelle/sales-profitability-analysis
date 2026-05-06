@@ -27,7 +27,7 @@ Reporting to the Marketing Director, this analysis evaluates sales performance a
 
 <h2 align="center">Executive Summary</h2>
 
-<img width="1187" height="506" alt="image" src="https://github.com/user-attachments/assets/728e1f73-2105-4ffc-8819-acba13e199b4" />
+<img width="1182" height="502" alt="revenue_peaks_2019_image" src="https://github.com/user-attachments/assets/dff550aa-eaef-4ea5-b7c2-2acfd81bcdc1" />
 
 
 ### Key Findings and Insights
@@ -68,6 +68,8 @@ This section highlights overall sales performance across revenue, order volume, 
 
 <img width="1187" height="440" alt="sales_trend_image" src="https://github.com/user-attachments/assets/c840a2c7-f75b-4e3d-bd37-8f2df4d3a264" />
 
+<br>
+
 These charts show how growth has evolved and what factors are driving performance.
 
 | Key Findings | Business Insights |
@@ -82,7 +84,9 @@ While sales performance shows strong growth, the next section shifts focus to pr
 
 <h2 align="center">Profit Trend</h2>
 
-<img width="986" height="400" alt="APO_top_bottom_5_subcategories_image" src="https://github.com/user-attachments/assets/e7c5c834-0162-4a45-b1f5-31e9d6408023" />
+<img width="985" height="400" alt="APO_top_bottom_5_sub-categories_image" src="https://github.com/user-attachments/assets/e598560e-61ff-490b-84fb-30b66b6107aa" />
+
+<br>
 
 | Key Findings | Business Insights |
 |-------------|----------|
@@ -93,8 +97,9 @@ While sales performance shows strong growth, the next section shifts focus to pr
 
 <br>
 
-<img width="987" height="466" alt="revenue_profit_quadrant_image" src="https://github.com/user-attachments/assets/15f018ff-148e-405e-a7d5-9eecd74835cb" />
+<img width="987" height="468" alt="revenue_profit_quadrant_image" src="https://github.com/user-attachments/assets/5c5987a7-608e-488c-b42f-87c4b8aa054f" />
 
+<br>
 **Insights**
 - **Top Performers** (**Binders, Phones, Accessories, Appliances**) generate both high revenue and high profit, making them the strongest contributors to overall performance.  
 - **Growth Potential** categories (**Copiers, Paper**) show strong profit but comparatively lower revenue, indicating opportunity for expansion.  
