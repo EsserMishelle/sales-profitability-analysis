@@ -54,6 +54,10 @@ The dataset consists of transactional sales data including orders, customers, an
 
 <img width="912" height="501" alt="erd_image" src="https://github.com/user-attachments/assets/62982144-3f37-4c4b-96e2-4c063af86ab8" />
 
+- **Dataset**: [Insert Dataset Link]  
+- **Data Dictionary**: [Insert Data Dictionary Link]
+
+The data includes key fields such as revenue, profit, discount, order date, product category, and regional attributes, supporting analysis of sales performance and profitability drivers.
 
 <h2 align="center">Sales Trend</h2>
 
