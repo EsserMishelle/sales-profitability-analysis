@@ -53,7 +53,7 @@ Reporting to the Marketing Director, this analysis evaluates sales performance a
 
 The dataset consists of synthetic but realistically structured transactional retail sales data designed to simulate real-world business operations and purchasing behavior. It includes orders, customers, and product-level details across multiple regions and time periods, with key fields such as revenue, profit, discount, order date, product category, and regional attributes to support analysis of sales performance and profitability drivers.
 
-The following files are associated with this project:
+The following files and the Entity Relationship Diagram (ERD) are associated with this project:
 
 - **Dataset**: [`National_Retail_Sales`](National_Retail_Sales.xlsx)
 - **Data Dictionary**: [`Retail_Sales_Data_Dictionary`](Retail_Sales_Data_Dictionary.xlsx)
