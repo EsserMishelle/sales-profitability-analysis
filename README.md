@@ -51,15 +51,10 @@ Reporting to the Marketing Director, this analysis evaluates sales performance a
 - Discounting appears to influence profit outcomes, particularly at higher discount levels.  
 - This suggests that growth does not always translate directly into improved financial performance.  
 
-### 5. Strategic Recommendations
-- Improving pricing discipline and limiting high discount levels can help sustain profitability.  
-- Focusing on high-performing product segments while addressing underperforming areas can further strengthen overall performance.  
-
 <h2 align="center">Dataset Overview</h2>
 The dataset consists of transactional sales data including orders, customers, and product-level details across multiple regions and time periods.
 
 <img width="912" height="501" alt="erd_image" src="https://github.com/user-attachments/assets/62982144-3f37-4c4b-96e2-4c063af86ab8" />
-
 
 
 <h2 align="center">Sales Trend</h2>
@@ -107,11 +102,6 @@ While sales performance shows strong growth, the next section shifts focus to pr
 - **Need Attention** categories (**Tables, Storage**) generate relatively high revenue but lower profit, suggesting margin inefficiencies.  
 - **Underperformers** (**Supplies, Fasteners, Art**) contribute low revenue and low profit, limiting overall impact.
 
-**Recommendations**
-- **Invest in Top Performers** (**Binders, Phones, Accessories, Appliances**) to sustain growth and maximize returns.  
-- **Expand Growth Potential categories** (**Copiers, Paper**) through targeted marketing, bundling, or increased visibility.  
-- **Improve margins in Need Attention categories** (**Tables, Storage**) by reviewing pricing, discounting, and cost structure.  
-- **Reevaluate Underperformers** (**Supplies, Fasteners, Art**) for cost reduction, repositioning, or potential phase-out.
 
 <img width="981" height="465" alt="image" src="https://github.com/user-attachments/assets/2a3d1a1d-7883-450f-a718-684bd7b03d6c" />
 
@@ -128,51 +118,22 @@ These visuals highlight how discount levels influence profit, revealing clear th
 | • High discount levels (>35%) frequently result in losses.<br>• Many orders fall below the profit baseline in this range.<br>• A “high discount risk zone” is observed in heavily discounted transactions. | • High discounts carry clear financial risk.<br>• Revenue at these levels is not translating into profit.<br>• Reducing these transactions would likely improve performance. |
 | • Individual high-profit orders (e.g., ~$45K) exist but are rare.<br>• Profit distribution is skewed by a small number of outliers.<br>• Most orders cluster around lower profit values. | • A few large orders are inflating results but are not typical.<br>• Average performance is a better indicator than extremes.<br>• Decisions should focus on consistent, repeatable outcomes. |
 
-
-<h2 align ='center'>Product Performance and Profitability by Category</h2>
-
-To further understand profitability beyond pricing effects, this analysis examines performance across product categories.
-
-<img width="983" height="412" alt="image" src="https://github.com/user-attachments/assets/a6f79cce-0ac0-4e00-a0e8-cf248bb9e250" />
-### Key Findings
-
-- **Top performers:** Binders (Office Supplies) and Phones (Technology) drive both high revenue and strong profit.
-- **Needs attention:** Tables (Furniture) generate high revenue but relatively low profit, indicating inefficiencies.
-- **Growth potential:** Copiers (Technology) show strong profit with moderate revenue and opportunity to scale.
-- **Underperformers:** Fasteners and Appliances contribute low revenue and profit relative to other categories.
-- **Key takeaway:** Revenue is concentrated in a few categories, but profitability varies significantly across segments.
-- **Recommedndations:** Recommendations will be finalized after sub-cetegory profitability analysis.
+<img width="985" height="530" alt="segment_and_region_charts" src="https://github.com/user-attachments/assets/858da3e4-21ab-4096-846b-ed4794d6aad3" />
 
 <br>
 
-These visuals provide a breakdown of profit margin performance across product sub-categories.
-<br>
-<img width="992" height="367" alt="top_bottom_5_sub_categories_image" src="https://github.com/user-attachments/assets/728b55d4-26e2-41ec-b676-4f4f585899ca" />
-
-### Key Findings and Business Insights
-
-- Profitability varies significantly across sub-categories, with margins ranging from over 40% in top performers to negative values in the lowest-performing segments.  
-- Sub-categories such as Labels, Paper, and Envelopes deliver the highest margins, indicating strong pricing power and efficient cost structures.  
-- Mid-tier categories (e.g., Accessories, Appliances, Furnishings) maintain moderate margins, suggesting balanced but not fully optimized profitability.  
-- Sub-categories including Tables, Bookcases, and Supplies fall near or below the break-even point, highlighting potential inefficiencies in pricing or cost control.  
-- Profitability is concentrated in a small number of high-performing categories, while several segments contribute limited or negative value.  
-
-<h2 align='center'>Pricing vs Cost Structure</h2>
-
-<img width="997" height="450" alt="dumbell_chart_unit_cost_unit_price_gap_image" src="https://github.com/user-attachments/assets/f0be69d4-adc5-4c1c-8b5d-0fb1f89bf491" />
-
-<br>
-
-### Key Findings and Insights
-
-- Sub-categories such as Copiers and Machines show the largest gaps between unit price and unit cost, supporting their strong profitability performance.
-- Lower-priced categories (e.g., Fasteners, Labels, Envelopes) operate with much smaller gaps, limiting margin expansion despite stable sales.
-- Mid-range categories (e.g., Chairs, Bookcases, Tables) show moderate pricing gaps, suggesting potential opportunities to improve margins through pricing or cost optimization.
-
-<br>
+**Insights**
+- **Corporate** and **Consumer** segments show improvement in profit margin from 2016 to 2019, while **Home Office** experiences a slight decline.  
+- Profit margins across regions are relatively consistent, though variability exists within each region.  
+- **Labels** consistently appear as high-margin outliers, while **Supplies** and **Tables** represent the lowest margin points across regions.
 
 
-
+===
+**Recommendations**
+- **Invest in Top Performers** (**Binders, Phones, Accessories, Appliances**) to sustain growth and maximize returns.  
+- **Expand Growth Potential categories** (**Copiers, Paper**) through targeted marketing, bundling, or increased visibility.  
+- **Improve margins in Need Attention categories** (**Tables, Storage**) by reviewing pricing, discounting, and cost structure.  
+- **Reevaluate Underperformers** (**Supplies, Fasteners, Art**) for cost reduction, repositioning, or potential phase-out.
 -------------
 
 ## Strategic Recommendations
