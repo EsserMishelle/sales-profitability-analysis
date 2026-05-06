@@ -17,8 +17,6 @@ Reporting to the Marketing Director, this analysis evaluates sales performance a
  - **Revenue – Measures overall sales performance across regions and product categories.**
 - **Profit – Evaluates the actual financial gain generated from sales.**
 - **Profit Margin – Assesses efficiency by comparing profit relative to revenue.**
-- **Order Volume – Tracks the number of orders over time to identify demand trends.**
-- **Average Order Value (AOV) – Measures the average revenue generated per order, indicating customer spending behavior.**
 - **Discount – Analyzes the impact of pricing strategies on profitability.**
 - **Product Performance – Evaluates performance at the category and sub-category level to identify high and low performers.**
 - **Regional Performance – Compares revenue and profit across regions to identify geographic opportunities and risks.**
@@ -42,9 +40,9 @@ Reporting to the Marketing Director, this analysis evaluates sales performance a
 - Recurring peaks, especially in Q4, highlight consistent seasonal purchasing behavior around the holiday season.  
 
 ### 3. Customer Spending Behavior
-- Average order value (AOV) remains relatively stable throughout the period, with no significant upward trend.  
-- Monthly variability suggests the influence of discounting or changes in product mix.  
-- This indicates that customer spend per transaction has not been the primary driver of growth.  
+- Average order value (AOV) remains relatively stable throughout the period.  
+- Occasional spikes are not sustained, indicating limited change in spending patterns.  
+- This suggests that revenue growth is primarily driven by increased order volume rather than higher spend per transaction.  
 
 ### 4. Profitability Considerations
 - While revenue and order volume grow consistently, profitability varies across time and conditions.  
@@ -73,7 +71,6 @@ These charts show how growth has evolved and what factors are driving performanc
 | • Order volume rose significantly, reaching a peak of 632 orders.<br>• Revenue and order volume trends closely align.<br>• Quarterly patterns show dips followed by recoveries. | • Growth is primarily driven by increased transaction volume rather than pricing.<br>• Demand shows cyclical behavior that should be considered in planning. |
 | • AOV remains relatively stable, averaging $3,692.<br>• Occasional spikes ($6,314) are not sustained.<br>• No consistent upward or downward trend is observed. | • Customer spend per order has remained largely unchanged.<br>• Revenue growth is not driven by higher-value transactions. |
 | • Revenue and order volume show recurring fluctuations, with stronger performance in 2018–2019.<br>• Declines are short-lived and followed by recovery. | • Later-year improvements suggest stronger demand or improved execution.<br>• Short-term variability does not indicate long-term risk. |
-| • Stable AOV contrasts with rising order volume.<br>• No major pricing shifts are evident. | • Growth is volume-driven, highlighting the importance of scaling acquisition and conversion.<br>• Operational efficiency becomes more critical as volume increases. |
 
 While sales performance shows strong growth, the next section shifts focus to profitability, and the factors that affect the profit performance.
 
@@ -129,7 +126,7 @@ These visuals highlight how discount levels influence profit, revealing clear th
 
 ## Conclusion
 
-Elevate Commerce demonstrates strong overall sales growth, supported by consistent improvements in profitability across key segments. However, profitability is uneven across categories, with a small number of high-performing categories driving a significant portion of profit, while several others underperform.
+This analysis highlights that while Elevate Commerce demonstrates strong sales performance, profitability is driven by a combination of pricing strategy, category performance, and discount behavior. However, profitability is uneven across categories, with a small number of high-performing categories driving a significant portion of profit, while several others underperform.
 
 Analysis shows that discounting plays a critical role in profitability, with margins declining sharply beyond the ~25–30% threshold. While some categories generate strong per-order profit, others rely on lower-margin performance, highlighting an imbalance in the current product mix.
 
