@@ -77,6 +77,22 @@ These charts show how growth has evolved and what factors are driving performanc
 | • AOV remains relatively stable, averaging **$3,692**.<br>• Occasional spikes **(~$6,314)** appear temporary rather than indicative of sustained growth..<br>• No consistent upward or downward trend during this timeframe. | • Customer spend per order has remained largely unchanged.<br>• Revenue growth is not driven by higher-value transactions. |
 | • Revenue and order volume show recurring fluctuations, with stronger performance in 2018–2019.<br>• Declines are short-lived and followed by recovery. | • Later-year improvements suggest stronger demand or improved business operational efficiency.<br>• Short-term variability does not indicate long-term risk. |
 
+<br>
+
+This section evaluates sales representative performance against yearly revenue goals and the 80% performance threshold. The 2017 view (filtered by top 15 sales reps) provides a representative snapshot of both above-goal and below-goal performers, while broader trends from 2016–2019 indicate gradual improvement in overall sales execution over time.
+
+<img width="1187" height="443" alt="sales_reps_goal_image" src="https://github.com/user-attachments/assets/1e8406ad-f2c9-4ec1-af7c-045c732a197a" />
+
+<br>
+
+The chart highlights variation in sales performance across representatives, with blue bars representing above-goal performers and red bars representing below-goal performers.
+
+| Key Findings | Business Insights |
+|---|---|
+| • Several sales representatives exceeded both yearly revenue goals and the 80% target threshold.<br>• A mix of above-goal (blue) and below-goal (red) performers indicates uneven sales performance across the team.<br>• Higher-performing representatives generated substantially greater revenue contributions than lower-performing peers. | • Revenue growth appears increasingly supported by stronger sales execution and improved goal attainment over time.<br>• Performance differences across representatives suggest opportunities for coaching, mentoring, and incentive alignment.<br>• Consistent success among top performers may reflect effective sales strategies that can be replicated across the broader team. |
+
+
+<br>
 While sales performance shows strong growth, the next section shifts focus to profitability, and the factors that affect the profit performance.
 
 <h2 align="center">Profit Trend</h2>
