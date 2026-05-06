@@ -100,6 +100,7 @@ While sales performance shows strong growth, the next section shifts focus to pr
 <img width="987" height="468" alt="revenue_profit_quadrant_image" src="https://github.com/user-attachments/assets/5c5987a7-608e-488c-b42f-87c4b8aa054f" />
 
 <br>
+
 **Insights**
 - **Top Performers** (**Binders, Phones, Accessories, Appliances**) generate both high revenue and high profit, making them the strongest contributors to overall performance.  
 - **Growth Potential** categories (**Copiers, Paper**) show strong profit but comparatively lower revenue, indicating opportunity for expansion.  
@@ -112,7 +113,7 @@ While sales performance shows strong growth, the next section shifts focus to pr
 - **Improve margins in Need Attention categories** (**Tables, Storage**) by reviewing pricing, discounting, and cost structure.  
 - **Reevaluate Underperformers** (**Supplies, Fasteners, Art**) for cost reduction, repositioning, or potential phase-out.
 
-<img width="987" height="400" alt="profit_trend_image" src="https://github.com/user-attachments/assets/933e5f74-857b-43dd-94df-313f6bd5efff" />
+<img width="981" height="465" alt="image" src="https://github.com/user-attachments/assets/2a3d1a1d-7883-450f-a718-684bd7b03d6c" />
 
 <br>
 
@@ -126,7 +127,6 @@ These visuals highlight how discount levels influence profit, revealing clear th
 | • Peak average profit occurs within the ~5–10% discount range.<br>• Moderate discounts generate the highest average returns.<br>• Profit declines outside this range. | • There is a clear “sweet spot” for discounting.<br>• Small discounts help drive sales without hurting profit.<br>• Pricing should stay within this range when possible. |
 | • High discount levels (>35%) frequently result in losses.<br>• Many orders fall below the profit baseline in this range.<br>• A “high discount risk zone” is observed in heavily discounted transactions. | • High discounts carry clear financial risk.<br>• Revenue at these levels is not translating into profit.<br>• Reducing these transactions would likely improve performance. |
 | • Individual high-profit orders (e.g., ~$45K) exist but are rare.<br>• Profit distribution is skewed by a small number of outliers.<br>• Most orders cluster around lower profit values. | • A few large orders are inflating results but are not typical.<br>• Average performance is a better indicator than extremes.<br>• Decisions should focus on consistent, repeatable outcomes. |
-
 
 
 <h2 align ='center'>Product Performance and Profitability by Category</h2>
