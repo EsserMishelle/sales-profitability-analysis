@@ -79,7 +79,7 @@ While sales performance shows strong growth, the next section shifts focus to pr
 
 <h2 align="center">Profit Trend</h2>
 
-<img width="985" height="400" alt="APO_top_bottom_5_sub-categories_image" src="https://github.com/user-attachments/assets/e598560e-61ff-490b-84fb-30b66b6107aa" />
+<img width="1187" height="400" alt="APO_top_bottom_5_sub-categories_image" src="https://github.com/user-attachments/assets/e598560e-61ff-490b-84fb-30b66b6107aa" />
 
 <br>
 
@@ -92,7 +92,7 @@ While sales performance shows strong growth, the next section shifts focus to pr
 
 <br>
 
-<img width="987" height="468" alt="revenue_profit_quadrant_image" src="https://github.com/user-attachments/assets/5c5987a7-608e-488c-b42f-87c4b8aa054f" />
+<img width="1187" height="468" alt="revenue_profit_quadrant_image" src="https://github.com/user-attachments/assets/5c5987a7-608e-488c-b42f-87c4b8aa054f" />
 
 <br>
 
@@ -103,7 +103,7 @@ While sales performance shows strong growth, the next section shifts focus to pr
 - **Underperformers** (**Supplies, Fasteners, Art**) contribute low revenue and low profit, limiting overall impact.
 
 
-<img width="981" height="465" alt="image" src="https://github.com/user-attachments/assets/2a3d1a1d-7883-450f-a718-684bd7b03d6c" />
+<img width="1187" height="465" alt="image" src="https://github.com/user-attachments/assets/2a3d1a1d-7883-450f-a718-684bd7b03d6c" />
 
 <br>
 
@@ -118,7 +118,7 @@ These visuals highlight how discount levels influence profit, revealing clear th
 | • High discount levels (>35%) frequently result in losses.<br>• Many orders fall below the profit baseline in this range.<br>• A “high discount risk zone” is observed in heavily discounted transactions. | • High discounts carry clear financial risk.<br>• Revenue at these levels is not translating into profit.<br>• Reducing these transactions would likely improve performance. |
 | • Individual high-profit orders (e.g., ~$45K) exist but are rare.<br>• Profit distribution is skewed by a small number of outliers.<br>• Most orders cluster around lower profit values. | • A few large orders are inflating results but are not typical.<br>• Average performance is a better indicator than extremes.<br>• Decisions should focus on consistent, repeatable outcomes. |
 
-<img width="985" height="530" alt="segment_and_region_charts" src="https://github.com/user-attachments/assets/858da3e4-21ab-4096-846b-ed4794d6aad3" />
+<img width="1187" height="530" alt="segment_and_region_charts" src="https://github.com/user-attachments/assets/858da3e4-21ab-4096-846b-ed4794d6aad3" />
 
 <br>
 
