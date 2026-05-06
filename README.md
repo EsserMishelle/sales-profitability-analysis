@@ -37,12 +37,12 @@ Reporting to the Marketing Director, this analysis evaluates sales performance a
 ### 2. Order Volume Trends
 - Order volume increases steadily over time, especially from 2018 onward.  
 - Growth in revenue closely aligns with rising order counts, indicating higher transaction activity.  
-- Recurring peaks, especially in Q4, highlight consistent seasonal purchasing behavior around the holiday season.  
+- Recurring peaks, especially in Q4, reflect consistent seasonal purchasing behavior around the holiday season.  
 
 ### 3. Customer Spending Behavior
 - Average order value (AOV) remains relatively stable throughout the period.  
-- Occasional spikes are not sustained, indicating limited change in spending patterns.  
-- This suggests that revenue growth is primarily driven by increased order volume rather than higher spend per transaction.  
+- Occasional spikes are brief and infrequent, implying limited change in spending patterns.  
+- This suggests that revenue growth is primarily driven by overall increased order volume rather than higher spend per transaction.  
 
 ### 4. Profitability Considerations
 - While revenue and order volume grow consistently, profitability varies across time and conditions.  
@@ -72,10 +72,10 @@ These charts show how growth has evolved and what factors are driving performanc
 
 | Key Findings | Business Insights |
 |------------------|----------------------|
-| • Revenue increased steadily from 2016 to 2019, exceeding the historical average in 2019.<br>• Peak monthly revenue (~$876K) occurs toward the end of the period.<br>• A temporary dip after 2016 is followed by a strong recovery in 2017. | • The business shows sustained growth with stronger performance in later years.<br>• The quick recovery after 2016 suggests resilience rather than structural weakness. |
-| • Order volume rose significantly, reaching a peak of 632 orders.<br>• Revenue and order volume trends closely align.<br>• Quarterly patterns show dips followed by recoveries. | • Growth is primarily driven by increased transaction volume rather than pricing.<br>• Demand shows cyclical behavior that should be considered in planning. |
-| • AOV remains relatively stable, averaging $3,692.<br>• Occasional spikes ($6,314) are not sustained.<br>• No consistent upward or downward trend is observed. | • Customer spend per order has remained largely unchanged.<br>• Revenue growth is not driven by higher-value transactions. |
-| • Revenue and order volume show recurring fluctuations, with stronger performance in 2018–2019.<br>• Declines are short-lived and followed by recovery. | • Later-year improvements suggest stronger demand or improved execution.<br>• Short-term variability does not indicate long-term risk. |
+| • Revenue increased steadily from 2016 to 2019, exceeding the historical average in 2019.<br>• Peak monthly revenue **(~$876K)** occurs toward the end of the period.<br>• A temporary dip after 2016 is followed by a strong recovery in 2017. | • The business shows sustained growth with stronger performance in later years.<br>• The quick recovery after 2016 suggests retail resilience rather than structural weakness. |
+| • Order volume rose significantly, reaching a peak of **632** orders.<br>• Revenue and order volume trends closely align.<br>• Quarterly patterns show dips followed by recoveries. | • Growth is primarily driven by increased transaction volume rather than pricing.<br>• Demand shows cyclical pattern that should be considered in planning. |
+| • AOV remains relatively stable, averaging **$3,692**.<br>• Occasional spikes **(~$6,314)** appear temporary rather than indicative of sustained growth..<br>• No consistent upward or downward trend during this timeframe. | • Customer spend per order has remained largely unchanged.<br>• Revenue growth is not driven by higher-value transactions. |
+| • Revenue and order volume show recurring fluctuations, with stronger performance in 2018–2019.<br>• Declines are short-lived and followed by recovery. | • Later-year improvements suggest stronger demand or improved business operational efficiency.<br>• Short-term variability does not indicate long-term risk. |
 
 While sales performance shows strong growth, the next section shifts focus to profitability, and the factors that affect the profit performance.
 
@@ -87,7 +87,7 @@ While sales performance shows strong growth, the next section shifts focus to pr
 
 | Key Findings | Business Insights |
 |-------------|----------|
-| **Copiers (~$6K APO)** is a clear outlier, with **Machines (~$2.4K)** also significantly higher than all other categories. | Profitability is **highly concentrated**, with Copiers and Machines driving strong per-order returns. |
+| **Copiers (~$6K APO)** is a clear top-performing performer, with **Machines (~$2.4K)** also significantly higher than all other categories. | Profitability is **highly concentrated**, with Copiers and Machines driving strong per-order returns. |
 | Most categories (**Chairs, Phones, Accessories, Binders, Appliances, Storage, Bookcases, Paper, Envelopes**) show **low APO (generally <$500)**. | Most categories contribute **lower per-order profit**, indicating a wide gap in performance. |
 | High-margin sub-categories include **Labels, Paper, Envelopes, Copiers, and Fasteners**. | There is a clear divide between **high-margin categories** and others, highlighting performance imbalance. |
 | Loss-making sub-categories include **Supplies, Tables, Bookcases, Storage, and Chairs** (down to ~-20%). | Categories like **Chairs, Storage, and Bookcases** show **consistent underperformance** across metrics. |
