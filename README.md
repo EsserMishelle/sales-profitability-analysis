@@ -55,7 +55,7 @@ The dataset consists of transactional sales data including orders, customers, an
 <img width="912" height="501" alt="erd_image" src="https://github.com/user-attachments/assets/62982144-3f37-4c4b-96e2-4c063af86ab8" />
 
 - **Dataset**: [`National_Retail_Sales`](National_Retail_Sales.xlsx)
-- **Data Dictionary**: [`National_Retail_Sales_Dictionary`](National_Retail_Sales_Dictionary.xlsx)
+- **Data Dictionary**: [`Retail_Sales_Dictionary`](Retail_Sales_Data_Dictionary.xlsx)
 
 The data includes key fields such as revenue, profit, discount, order date, product category, and regional attributes, supporting analysis of sales performance and profitability drivers.
 
