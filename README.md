@@ -66,7 +66,7 @@ The dataset consists of transactional sales data including orders, customers, an
 
 This section highlights overall sales performance across revenue, order volume, and average order value (AOV), helping identify key growth patterns and the primary drivers of business performance over time.
 
-<img width="1485" height="526" alt="sales_trend_image" src="https://github.com/user-attachments/assets/95ad9276-bdca-4b1b-b950-62d16a1dc1e0" />
+<img width="1187" height="440" alt="sales_trend_image" src="https://github.com/user-attachments/assets/c840a2c7-f75b-4e3d-bd37-8f2df4d3a264" />
 
 These charts show how growth has evolved and what factors are driving performance.
 
