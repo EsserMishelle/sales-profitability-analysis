@@ -27,7 +27,9 @@ Reporting to the Marketing Director, this analysis evaluates sales performance a
 <h2 align="center">Executive Summary</h2>
 
 <p align = 'left'>
-<img width="1184" height="400" alt="revenue_profit_peak_2019_image" src="https://github.com/user-attachments/assets/90b4e304-882b-4295-a3d7-6f30bc6e5ae6" />
+
+<img width="1185" height="580" alt="revenue_profit_peak_2019_image" src="https://github.com/user-attachments/assets/03d092d3-3e1f-4d48-a97c-90423d5b8416" />
+
 </p>
 
 ### Key Findings and Insights
