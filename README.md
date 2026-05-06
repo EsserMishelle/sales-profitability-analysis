@@ -145,55 +145,37 @@ These visuals highlight how discount levels influence profit, revealing clear th
 - Profit margins across regions are relatively consistent, though variability exists within each region.  
 - **Labels** consistently appear as high-margin outliers, while **Supplies** and **Tables** represent the lowest margin points across regions.
 
-## Conclusion
+<br>
+<h2 align="center">Conclusion</h2>
 
-This analysis highlights that while Elevate Commerce demonstrates strong sales performance, profitability is driven by a combination of pricing strategy, category performance, and discount behavior. However, profitability is uneven across categories, with a small number of high-performing categories driving a significant portion of profit, while several others underperform.
+This analysis highlights that while Elevate Commerce demonstrates strong overall sales growth, profitability and performance are influenced by a combination of pricing strategy, category performance, discount behavior, and sales representative performance.
 
-Analysis shows that discounting plays a critical role in profitability, with margins declining sharply beyond the ~25–30% threshold. While some categories generate strong per-order profit, others rely on lower-margin performance, highlighting an imbalance in the current product mix.
+Revenue and order volume increase steadily from 2016 to 2019, while average order value remains relatively stable, indicating that growth is primarily driven by increased transaction activity rather than higher spending per order. Profitability analysis further shows that a small group of high-performing categories contributes disproportionately to overall profit, while several lower-performing categories continue to underperform.
 
-Overall, the business has a solid foundation for growth, but improving pricing strategies and optimizing category performance will be essential to sustaining long-term profitability.
+Discount analysis reveals that profitability declines significantly beyond the ~25–30% discount threshold, emphasizing the importance of pricing discipline. In addition, sales representative performance improves progressively over time, with stronger goal attainment contributing to sustained revenue growth in 2018-2019.
 
-## Strategic Recommendations
+Overall, the business demonstrates strong growth potential, but long-term profitability will depend on balancing sales growth with pricing optimization, category management, and consistent sales execution.
 
-- **Prioritize high-performing categories**: Continue investing in top performers such as Binders and Phones to sustain strong revenue and profitability.
+<br>
+<h2 align="center">Strategic Recommendations</h2>
 
-- **Optimize discount strategy**: Maintain discounts within the 5–10% range and avoid exceeding ~25–30% to protect margins.
+- **Prioritize high-performing categories**: Continue investing in top-performing categories such as Binders and Phones to sustain strong revenue and profitability.
 
-- **Scale growth potential categories**: Expand categories like Copiers and Paper through targeted marketing and increased visibility.
+- **Optimize discount strategy**: Maintain discounts within the 5–10% range and avoid exceeding ~25–30% to protect profit margins and reduce margin erosion. 
 
-- **Address underperforming categories**: Reevaluate low-margin categories such as Tables, Supplies, and Fasteners through pricing adjustments or cost optimization.
+- **Expand growth-potential categories**: Increase visibility and targeted promotion for categories such as Copiers and Paper that demonstrate strong profitability potential, with a stronger focus on the high APO sub-categories (Copier and Machines).
 
-- **Focus on profitable growth**: Shift emphasis from volume-driven sales to margin-driven performance to ensure sustainable performance.
-
-===
-**Recommendations**
-- **Invest in Top Performers** (**Binders, Phones, Accessories, Appliances**) to sustain growth and maximize returns.  
-- **Expand Growth Potential categories** (**Copiers, Paper**) through targeted marketing, bundling, or increased visibility.  
-- **Improve margins in Need Attention categories** (**Tables, Storage**) by reviewing pricing, discounting, and cost structure.  
-- **Reevaluate Underperformers** (**Supplies, Fasteners, Art**) for cost reduction, repositioning, or potential phase-out.
--------------
-
-## Strategic Recommendations
-
-- **Prioritize high-performing categories:** Continue investing in top performers such as Binders and Phones to sustain revenue and profit growth.
-- **Optimize discount strategy:** Maintain discounts within the ~5–10% range and avoid exceeding ~25–30% to protect margins and prevent losses.
-- **Scale growth potential segments:** Expand categories like Copiers by increasing visibility, targeted promotions, or inventory to capture additional revenue.
 - **Improve underperforming categories:** Reevaluate low-performing products such as Fasteners and Appliances through pricing adjustments, bundling, or potential discontinuation.
+
 - **Address “Need Attention” categories:** For high-revenue but low-profit items like Tables, explore cost reduction, pricing optimization, or value-added offerings to improve margins.
+
 - **Leverage product bundling and cross-selling:** Pair underperforming items with high-performing products to increase overall basket value and improve profitability.
-- **Focus on operational efficiency:** As growth is driven by volume rather than pricing, improving fulfillment, inventory management, and conversion rates will be critical to scaling profitably.
 
----
+- **Strengthen sales execution**: Expand coaching, mentoring, and performance-sharing initiatives to improve consistency across sales representatives.
 
-**Overall Insight:**  
-Elevate Commerce demonstrates scalable growth driven by increased customer activity, with consistent pricing dynamics supporting stable revenue expansion.
+- **Implement performance incentives**: Introduce incentive programs tied to revenue growth and goal attainment to encourage stronger sales performance and sustained operational growth.
 
 
 
-Further analysis indicates that discounting, product category performance, and customer segmentation play key roles in driving profitability. These findings highlight opportunities to optimize pricing strategies and focus on high-performing segments to sustain long-term growth.
 
-## Objective of the Analysis
 
-This analysis was conducted to evaluate sales performance and identify key factors impacting profitability. The goal is to provide actionable insights into revenue trends, discount strategies, and customer segment behavior to support more informed business decisions and improve overall financial performance.
-
-## Insights
