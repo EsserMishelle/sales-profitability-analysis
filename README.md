@@ -62,7 +62,7 @@ The following files and the Entity Relationship Diagram (ERD) are associated wit
 
 <h2 align="center">Sales Trend</h2>
 
-This section highlights overall sales performance across revenue, order volume, and average order value (AOV), helping identify key growth patterns and the primary drivers of business performance over time.
+This section highlights overall sales performance across revenue, order volume, and average order value (AOV), helping identify growth patterns and key business drivers over time.
 
 <img width="1187" height="440" alt="sales_trend_image" src="https://github.com/user-attachments/assets/c840a2c7-f75b-4e3d-bd37-8f2df4d3a264" />
 
@@ -81,7 +81,7 @@ While sales performance shows strong growth, the next section shifts focus to pr
 
 <h2 align="center">Profit Trend</h2>
 
-<img width="1187" height="400" alt="APO_top_bottom_5_sub-categories_image" src="https://github.com/user-attachments/assets/e598560e-61ff-490b-84fb-30b66b6107aa" />
+<img width="1187" height="415" alt="APO_top_bottom_5_sub-categories_image" src="https://github.com/user-attachments/assets/cf9e8553-d8fe-48eb-904b-79e722a56b3e" />
 
 <br>
 
@@ -120,7 +120,7 @@ These visuals highlight how discount levels influence profit, revealing clear th
 | • High discount levels (>35%) frequently result in losses.<br>• Many orders fall below the profit baseline in this range.<br>• A “high discount risk zone” is labelled in heavily discounted transactions. | • High discounts carry clear financial risk.<br>• Revenue at these levels is not translating into profit.<br>• Reducing these transactions would likely improve performance. |
 | • Individual high-profit orders (e.g., **~$45K**) exist but are infrequent.<br>• Profit distribution is skewed by a small number of outliers.<br>• Most orders cluster around lower profit values. | • A few large orders are inflating results but are not typical.<br>• Average performance is a better indicator than extremes.<br>• Decisions should focus on consistent, repeatable outcomes. |
 
-<img width="1187" height="530" alt="segment_and_region_charts" src="https://github.com/user-attachments/assets/858da3e4-21ab-4096-846b-ed4794d6aad3" />
+<img width="1187" height="521" alt="segment_and_region_charts_image" src="https://github.com/user-attachments/assets/0319707c-3057-41c4-a61b-23194bceb614" />
 
 <br>
 
