@@ -58,7 +58,7 @@ The following files and the Entity Relationship Diagram (ERD) are associated wit
 - **Dataset**: [`Retail_Sales_Data`](Retail_Sales_Data.xlsx)
 - **Data Dictionary**: [`Retail_Sales_Data_Dictionary`](Retail_Sales_Data_Dictionary.xlsx)
 - **Tableau**: [`Elevate_Commerce_Sales_Profitability_Analysis`](Elevate_Commerce_Sales_Profitability_Analysis.twbx)
-- 
+
 <img width="912" height="501" alt="erd_image" src="https://github.com/user-attachments/assets/62982144-3f37-4c4b-96e2-4c063af86ab8" />
 
 <h2 align="center">Sales Trend</h2>
